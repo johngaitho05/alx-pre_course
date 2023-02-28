@@ -1,1 +1,1 @@
-Some cool app
+Some cool app - updated
